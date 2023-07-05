@@ -1,5 +1,6 @@
 # Javascript-Practice
 Javascript Programs For Practice
+<<<<<<< HEAD
 To-Do List: Create a web application that allows users to add, delete, and mark tasks as completed.
 
 Weather Application: Build a weather application that fetches real-time weather data based on the user's location or a manually entered location.
@@ -29,3 +30,15 @@ URL Shortener: Create a URL shortening service that takes long URLs as input and
 Music Player: Build a web-based music player that allows users to play, pause, skip, and control the volume of songs.
 
 Calculator: Develop a calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+=======
+1. ̀Even Or Odd: Check if a given number is even or odd
+2. Sum: Return the sum of 2 numbers
+3. Convert Hours into Seconds
+4. Check if a given number is equal, greater or lesser than another given number
+5. Count the number of Arguments given to a function
+6. Return the nth Element of an Array
+7. Convert Inch to Foot
+8. Find the index of an Element in an Array
+9. Reverse an Array
+10. Check if an Array contains a given Element
+>>>>>>> 142fdc246d1c67c434c693b15af1959db83d022b
